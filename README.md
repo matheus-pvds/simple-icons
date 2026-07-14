@@ -1,5 +1,14 @@
 # Simple Icons — 3400+ Brand SVG Icons
 
+![SVG](https://img.shields.io/badge/SVG-3400%2B-FFB13B?logo=svg&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8-777BB4?logo=php&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![Packagist](https://img.shields.io/badge/Packagist-F28D1A?logo=packagist&logoColor=white)
+![CDN](https://img.shields.io/badge/CDN-FF6600?logo=cloudflare&logoColor=white)
+![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)
+
 A massive open-source collection of **over 3400 SVG icons for popular brands**, licensed under **CC0 1.0**. Served via CDN (simpleicons.org) and distributed as npm/Packagist packages.
 
 ## Features
